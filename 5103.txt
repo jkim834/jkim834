@@ -8,7 +8,7 @@ Who This Procedure Applies To
 Extra Information
 Decision Reviews
 Steps
-Forms Associated with this Procedure
+Time Extensions
 Amendment History
 
 ## Who
@@ -27,5 +27,28 @@ For cases where the course is concluded, students may still initiate a request w
 ## Steps
 Informal review by instructor.
 Formal request for re-assessment.
-Formal may appealed as per 5104
+//Formal may appealed as per 5104
 
+## Step 1: Informal
+
+Students should first discuss the matter with the instructor.
+The student document their understanding of the meeting and clarify why the student was awarded the grade.
+If there is no resolution, the student may sumit the formal request.
+
+## Step 2: Formal Request
+
+Obtain the "Request for Grade Re-assessment" application form.
+Provide accurate information.
+Provide the basis for re-assessment.
+Include reports, assignments, quizzes, labs etc.
+
+## Time Extensions
+
+In case where the students was unable to contact the instructor within five business days, the student must provide evidence that they attempted to do so in timely manner.
+
+## Amendment History
+
+2009 Creation Replaced
+2010 Revision Replaced
+2019 Revision In Force
+2024 Review Scheduled
